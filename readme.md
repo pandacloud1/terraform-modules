@@ -9,7 +9,9 @@ Directory Structure
 ```sh
 terraform/
 ├── main.tf
+├── providers.tf
 ├── variables.tf
+├── terraform.tfvars
 ├── outputs.tf
 ├── modules/
 │   ├── vpc/
