@@ -1,5 +1,11 @@
-## Folder structure 
+# TERRAFORM MODULES
 
+Note:
+* Create directory structure as below
+* Add all the relevant files & directories
+* Then run `terraform apply` & `terraform destroy` commands 
+
+Directory Structure
 ```sh
 terraform/
 ├── main.tf
