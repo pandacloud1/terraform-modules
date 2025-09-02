@@ -19,5 +19,6 @@ output "ec2_public_ip" {
 }
 
 output "bucket_id" {
+  description = "The S3 bucket name"
   value = module.s3.bucket_id
 }
